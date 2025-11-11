@@ -11,7 +11,7 @@ Implementação do framework PaDiM para detecção e localização de defeitos e
 
 ---
 
-## 📄 Sobre o Projeto
+##  Sobre o Projeto
 
 O Projeto Pandora é um estudo desenvolvido para fins acadêmicos e educacionais, com o propósito de reproduzir e aplicar a metodologia proposta no artigo
 “PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization”
@@ -27,7 +27,7 @@ O processo consiste em:
 
 Este repositório contém o notebook com a implementação completa em Python, TensorFlow e Keras, desde o pré-processamento até a avaliação final, alcançando resultados de alta precisão.
 
-### ✨ Resultados
+###  Resultados
 
 A implementação otimizada alcançou um desempenho excepcional na detecção de garrafas com defeito:
 
@@ -36,7 +36,7 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 *   **Linguagem:** Python
 *   **Frameworks de Machine Learning:** TensorFlow, Keras, Scikit-learn
@@ -44,7 +44,7 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 *   Python 3.9+
