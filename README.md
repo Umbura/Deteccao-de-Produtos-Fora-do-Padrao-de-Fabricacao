@@ -33,7 +33,7 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 
 *   **AUC-ROC:** **0.9968**
 *   **Acurácia (com limiar otimizado):** **98%**
-*   ![Amostra]([https://github.com/Umbura/Deteccao-de-Produtos-Fora-do-Padrao-de-Fabricacao/blob/main/samples-assets/class_good_2.png](https://github.com/Umbura/Deteccao-de-Produtos-Fora-do-Padrao-de-Fabricacao/blob/main/samples-assets/samples.gif)
+*   ![Amostra](https://github.com/Umbura/Deteccao-de-Produtos-Fora-do-Padrao-de-Fabricacao/blob/main/samples-assets/samples.gif)
 
 ---
 
