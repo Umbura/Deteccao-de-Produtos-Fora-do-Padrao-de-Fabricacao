@@ -13,7 +13,7 @@ Implementação do framework PaDiM para detecção e localização de defeitos e
 
 ##  Sobre o Projeto
 
-O Projeto Pandora é um estudo desenvolvido para fins acadêmicos e educacionais, com o propósito de reproduzir e aplicar a metodologia proposta no artigo
+O projeto foi desenvolvido para fins acadêmicos e educacionais, com o propósito de reproduzir e aplicar a metodologia proposta no artigo
 “PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization”
 (Thomas Defard, Aleksandr Setkov, Angélique Loesch e Romaric Audigier, Université Paris-Saclay, 2020).
 O objetivo central deste trabalho é explorar e implementar a metodologia PaDiM no contexto de inspeção visual industrial, aplicando-a ao problema de detecção de produtos fora do padrão de fabricação.
@@ -52,8 +52,8 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 
 ### Instalação e Execução
 1.  Clone este repositório.
-2.  Instale as dependências com `pip install -r requirements.txt`.
-3.  Abra e execute o notebook `PaDiM_Quality_Control.ipynb`.
+2.  Instale as dependências com `pip install -r requirements.txt`.(opcional)
+3.  Abra e execute o notebook `main.ipynb`.
 
 ---
 
