@@ -58,7 +58,7 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 
 ---
 
-## 📜 Créditos e Referência
+## Créditos e Referência
 
 Este projeto é uma implementação do trabalho acadêmico original dos autores do PaDiM.
 
@@ -66,6 +66,6 @@ Este projeto é uma implementação do trabalho acadêmico original dos autores 
 *   **MVTec Anomaly Detection (MVTec AD).**[MVTec AD - Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)**
 ---
 
-## 📄 Licença
+## Licença
 
 Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
