@@ -15,7 +15,7 @@
 </p>
 
 <!-- MAIN IMAGE -->
-<img src="https://github.com/Umbura/Deteccao-de-Produtos-Fora-do-Padrao-de-Fabricacao/raw/main/samples-assets/samples.gif" alt="PaDiM Demo" width="100%">
+<img src="https://i.imgur.com/0KGYw4w.gif" alt="PaDiM Demo" width="100%">
 
 *Model demonstration identifying non-standard bottles (defects).*
 
@@ -47,7 +47,7 @@ The optimized implementation achieved exceptional performance in detecting defec
 *   **Accuracy (with optimized threshold):** **98%**
 
 <div align="center">
-  <img src="https://github.com/Umbura/Deteccao-de-Produtos-Fora-do-Padrao-de-Fabricacao/raw/main/samples-assets/samples.gif" alt="Detection Samples" width="80%">
+  <img src="https://i.imgur.com/0KGYw4w.gif" alt="Detection Samples" width="80%">
   <p><em>Visualization of heatmaps indicating the exact location of anomalies.</em></p>
 </div>
 
